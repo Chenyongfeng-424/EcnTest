@@ -27,12 +27,11 @@ import org.json.JSONArray
 import org.json.JSONObject
 import java.io.File
 
-
 class MainActivity : AppCompatActivity() {
 
     private val TAG = "MainActivity"
     private lateinit var device: BluetoothDevice
-    private var deviceName = "O2Ring 4444"
+    private var deviceName = "ECN 4444"
     private var fileList = ""
     private var ecnFileList = mutableListOf<FileList.BleFile>()
 
@@ -60,9 +59,6 @@ class MainActivity : AppCompatActivity() {
             SlaveManager.closeSlaveBle()
             SlaveManager.initSlaveBle(this, deviceName)
         }
-        wifi.setOnClickListener {
-            startActivity(Intent(this, WifiActivity::class.java))
-        }
         finish_activity.setOnClickListener {
             finish()
         }
@@ -70,9 +66,6 @@ class MainActivity : AppCompatActivity() {
 //            GaServerManager.enableBleServices(this)
             SlaveManager.initSlaveBle(this, deviceName)
 //            startService(Intent(this, SlaveService::class.java))
-        }
-        stop_advertise.setOnClickListener {
-            SlaveManager.stopBleAdvertise()
         }
         close_slave_ble.setOnClickListener {
 //            GaServerManager.disableBleServices(this)

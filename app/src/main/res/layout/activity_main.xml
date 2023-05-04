@@ -32,23 +32,9 @@
                     android:id="@+id/ecn"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:checked="true"
                     android:text="ECN 4444"/>
             </RadioGroup>
-        </LinearLayout>
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content">
-            <Button
-                android:id="@+id/wifi"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="wifi"/>
-            <Button
-                android:id="@+id/finish_activity"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="10dp"
-                android:text="finish activity"/>
         </LinearLayout>
         <LinearLayout
             android:layout_width="match_parent"
@@ -59,11 +45,11 @@
                 android:layout_height="wrap_content"
                 android:text="init slave ble"/>
             <Button
-                android:id="@+id/stop_advertise"
+                android:id="@+id/finish_activity"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="10dp"
-                android:text="stop advertise"/>
+                android:text="finish activity"/>
         </LinearLayout>
         <LinearLayout
             android:layout_width="match_parent"
