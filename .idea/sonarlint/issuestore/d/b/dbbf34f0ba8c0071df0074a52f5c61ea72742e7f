@@ -1,0 +1,96 @@
+
+o	java:S116)"URename this field "text_state" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÒ†”şÿÿÿÿ
+E
+java:S1874<"/Remove this use of "Handler"; it is deprecated.(ŸÇŸÇ
+<	java:S131?""Add a default case to this switch.(ıŞ³‹ùÿÿÿÿ
+t
+java:S2142d"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+R
+java:S1874Œ"6Remove this use of "setWifiEnabled"; it is deprecated.(¯‰Ùåøÿÿÿÿ
+P
+java:S1874"9Remove this use of "WifiConfiguration"; it is deprecated.(ÜËÔ¡
+P
+java:S1874"9Remove this use of "WifiConfiguration"; it is deprecated.(ÜËÔ¡
+C
+java:S1874",Remove this use of "SSID"; it is deprecated.(§Œ•ä
+P
+java:S1874"4Remove this use of "preSharedKey"; it is deprecated.(ÏóèÅùÿÿÿÿ
+N
+java:S1874‘"2Remove this use of "hiddenSSID"; it is deprecated.(íİ¨ùøÿÿÿÿ
+Y
+java:S1874“"=Remove this use of "allowedAuthAlgorithms"; it is deprecated.(“ÚşŠşÿÿÿÿ
+U
+java:S1874“"9Remove this use of "WifiConfiguration"; it is deprecated.(“ÚşŠşÿÿÿÿ
+Q
+java:S1874“"5Remove this use of "AuthAlgorithm"; it is deprecated.(“ÚşŠşÿÿÿÿ
+H
+java:S1874“",Remove this use of "OPEN"; it is deprecated.(“ÚşŠşÿÿÿÿ
+W
+java:S1874”";Remove this use of "allowedGroupCiphers"; it is deprecated.(…ƒÕÑøÿÿÿÿ
+U
+java:S1874”"9Remove this use of "WifiConfiguration"; it is deprecated.(…ƒÕÑøÿÿÿÿ
+O
+java:S1874”"3Remove this use of "GroupCipher"; it is deprecated.(…ƒÕÑøÿÿÿÿ
+H
+java:S1874”",Remove this use of "TKIP"; it is deprecated.(…ƒÕÑøÿÿÿÿ
+X
+java:S1874•"<Remove this use of "allowedKeyManagement"; it is deprecated.(ã°‚°ıÿÿÿÿ
+U
+java:S1874•"9Remove this use of "WifiConfiguration"; it is deprecated.(ã°‚°ıÿÿÿÿ
+K
+java:S1874•"/Remove this use of "KeyMgmt"; it is deprecated.(ã°‚°ıÿÿÿÿ
+K
+java:S1874•"/Remove this use of "WPA_PSK"; it is deprecated.(ã°‚°ıÿÿÿÿ
+Z
+java:S1874–">Remove this use of "allowedPairwiseCiphers"; it is deprecated.(ğÚĞûÿÿÿÿ
+O
+java:S1874—"9Remove this use of "WifiConfiguration"; it is deprecated.(ˆØçj
+L
+java:S1874—"6Remove this use of "PairwiseCipher"; it is deprecated.(ˆØçj
+B
+java:S1874—",Remove this use of "TKIP"; it is deprecated.(ˆØçj
+R
+java:S1874˜";Remove this use of "allowedGroupCiphers"; it is deprecated.(½¨ŒŠ
+P
+java:S1874˜"9Remove this use of "WifiConfiguration"; it is deprecated.(½¨ŒŠ
+J
+java:S1874˜"3Remove this use of "GroupCipher"; it is deprecated.(½¨ŒŠ
+C
+java:S1874˜",Remove this use of "CCMP"; it is deprecated.(½¨ŒŠ
+Z
+java:S1874™">Remove this use of "allowedPairwiseCiphers"; it is deprecated.(ğÚĞûÿÿÿÿ
+U
+java:S1874š"9Remove this use of "WifiConfiguration"; it is deprecated.(ü÷‡Ëúÿÿÿÿ
+R
+java:S1874š"6Remove this use of "PairwiseCipher"; it is deprecated.(ü÷‡Ëúÿÿÿÿ
+H
+java:S1874š",Remove this use of "CCMP"; it is deprecated.(ü÷‡Ëúÿÿÿÿ
+J
+java:S1874›".Remove this use of "status"; it is deprecated.(®ëæ¦øÿÿÿÿ
+U
+java:S1874›"9Remove this use of "WifiConfiguration"; it is deprecated.(®ëæ¦øÿÿÿÿ
+J
+java:S1874›".Remove this use of "Status"; it is deprecated.(®ëæ¦øÿÿÿÿ
+K
+java:S1874›"/Remove this use of "ENABLED"; it is deprecated.(®ëæ¦øÿÿÿÿ
+u
+java:S2142Ä"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+U
+java:S1874 "9Remove this use of "WifiConfiguration"; it is deprecated.(‰˜®îøÿÿÿÿ
+C
+java:S3011ç",This accessibility update should be removed.(Ó«§¯
+O
+java:S1874è"9Remove this use of "WifiConfiguration"; it is deprecated.(ò’ùQ
+O
+java:S1874è"9Remove this use of "WifiConfiguration"; it is deprecated.(ò’ùQ
+P
+java:S1874é"9Remove this use of "WifiConfiguration"; it is deprecated.(œİë
+=	java:S131ó""Add a default case to this switch.(×“¾ñùÿÿÿÿ
+C
+java:S1604x"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ
+>
+java:S1604h"(Make this anonymous inner class a lambda(ÉãÃ®
+D
+java:S1604¶"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ
+?
+java:S1604¦"(Make this anonymous inner class a lambda(ÉãÃ®
